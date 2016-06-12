@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+<!-- 
+field：字段     内容元素为显示名称
+display: 是否显示
+code：vo变量名
+dbcode：数据库中的字段名
+type：数据库中的字段数据类型
+length：数据库中的字段类型长度
+ -->
+	<field display="true" code="innerCode" dbcode="nbbh" type="varchar" length="18">内部编号</field>
+	<field display="true" code="code" dbcode="xmdh" type="varchar" length="20">项目编号</field>
+	<field display="true" code="proName" dbcode="xmmc" type="varchar" length="200">项目名称</field>
+	<field display="true" code="contractId" dbcode="htbh" type="varchar" length="100">合同编号</field>
+	<field display="true" code="proSource" dbcode="xmly_val" type="varchar" length="100">项目来源</field>
+	<field display="true" code="proClass" dbcode="" type="varchar" length="100">项目类别</field>
+	<field display="true" code="proLevel" dbcode="" type="varchar" length="20">项目级别</field>
+	<field display="true" code="proLeader" dbcode="" type="varchar" length="50">项目组长</field>
+	<field display="true" code="memberListFlg" dbcode="" type="bit" length="1">是否成员登记</field>
+	<field display="true" code="classifiedLevel" dbcode="" type="varchar" length="10">涉密级别</field>
+	<field display="true" code="proCharactor" dbcode="" type="varchar" length="100">项目性质</field>
+	<field display="true" code="proStatus" dbcode="" type="varchar" length="100">项目状态</field>
+	<field display="true" code="overFormatDate" dbcode="" type="date" length="4">完成日期</field>
+	<field display="true" code="organization" dbcode="" type="varchar" length="100">所属单位</field>
+	<field display="true" code="cooperateOrg" dbcode="" type="varchar" length="100">合作单位</field>
+	<field display="true" code="startDate" dbcode="" type="date" length="4">开始日期</field>
+	<field display="true" code="endDate" dbcode="" type="date" length="4">结束日期</field>
+	<field display="true" code="regDate" dbcode="" type="date" length="4">登记日期</field>
+	<field display="true" code="dnnd" dbcode="" type="decimal" length="4">当年年度</field>	
+	<field display="true" code="yearArriveMoney" dbcode="" type="decimal" length="9">当年累计到款</field>
+	<field display="true" code="totalArriveMoney" dbcode="" type="decimal" length="9">全周期到款额</field>
+	<field display="true" code="yearGrant" dbcode="" type="decimal" length="9">当年累计拨款</field>
+	<field display="true" code="totalGrant" dbcode="" type="decimal" length="9">全周期拨款额</field>
+	<field display="true" code="yearCapitalAccount" dbcode="" type="decimal" length="9">当年累计固定资产使用费</field>
+	<field display="true" code="totalCapitalAccount" dbcode="" type="decimal" length="9">全周期累计固定资产使用费</field>
+	<field display="true" code="contractFounds" dbcode="" type="decimal" length="9">合同经费</field>
+	<field display="true" code="toUseFlg" dbcode="" type="bit" length="1">是否转化应用</field>
+	<field display="true" code="toUseUnit" dbcode="" type="varchar" length="200">转化应用部门</field>
+	<field display="true" code="riskFee" dbcode="" type="decimal" length="9">风险金</field>
+	<field display="true" code="riskFeeBack" dbcode="" type="decimal" length="9">回拨风险金</field>
+	<field display="true" code="riskCallbackFlg" dbcode="" type="bit" length="1">风险金回拨标记</field>
+	<field display="true" code="classifyDate" dbcode="" type="date" length="8">涉密时间</field>
+	<field display="true" code="decipherDate" dbcode="" type="date" length="8">解密时间</field>
+	<field display="true" code="overDate" dbcode="" type="date" length="4">结题日期</field>
+	<field display="true" code="overDepartment" dbcode="" type="varchar" length="200">结题部门</field>
+	<field display="true" code="overConclusion" dbcode="" type="varchar" length="200">结题结论</field>
+	<field display="true" code="acceptDate" dbcode="" type="date" length="4">验收日期</field>
+	<field display="true" code="acceptDepartment" dbcode="" type="varchar" length="200">验收部门</field>
+	<field display="true" code="acceptConclusion" dbcode="" type="varchar" length="200">验收结论</field>
+	<field display="true" code="evalueDate" dbcode="" type="date" length="4">鉴定日期</field>
+	<field display="true" code="evalueDepartment" dbcode="" type="varchar" length="200">鉴定部门</field>
+	<field display="true" code="evalueConclusion" dbcode="" type="varchar" length="20">鉴定结论</field>
+	<field display="true" code="overFormat" dbcode="" type="varchar" length="10">完成形式</field>
+	<field display="true" code="department" dbcode="" type="varchar" length="100">所属科室</field>
+	<field display="true" code="creater.name" dbcode="" type="varchar" length="20">经手人</field>
+	<field display="true" code="createDate" dbcode="" type="date" length="4">创建日期</field>
+	<field display="true" code="updater.name" dbcode="" type="varchar" length="20">修改人</field>
+	<field display="true" code="updateDate" dbcode="" type="date" length="4">修改日期</field>
+	<field display="true" code="delFlg" dbcode="" type="bit" length="1">删除标志</field>
+	<field display="true" code="delDate" dbcode="" type="date" length="4">删除时间</field>
+	<field display="true" code="remark" dbcode="" type="nvarchar" length="200">备注</field>
+</project>
+

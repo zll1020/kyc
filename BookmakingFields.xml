@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="ID" display="true">ID</field>
+	<field code="bookName" display="true">著作名称</field>
+	<field code="innerCode" display="true">项目内部编号</field>
+	<field code="publishingName" display="true">出版社名称</field>
+	<field code="publishingLevel" display="true">出版社级别</field>
+	<field code="publishDate" display="true">出版日期</field>
+	<field code="publishID" display="true">出版号</field>
+	<field code="publishAddress" display="true">出版地</field>
+	<field code="publishType" display="true">出版类型</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+</project>

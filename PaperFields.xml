@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="ID" display="true">ID</field>
+	<field code="innerCode" display="true">项目内部编号</field>
+	<field code="paperName" display="true">论文题目</field>
+	<field code="itsOrg" display="true">所在单位</field>
+	<field code="magazineName" display="true">刊物名称</field>
+	<field code="firstAuthor" display="true">第一作者</field>
+	<field code="secondAuthor" display="true">第二作者</field>
+	<field code="thirdAuthor" display="true">第三作者</field>
+	<field code="magazineTerm" display="true">刊物期</field>
+	<field code="magazineLabel" display="true">刊物卷</field>
+	<field code="magazineStartPage" display="true">刊物起始页</field>
+	<field code="magazineEndPage" display="true">刊物终止页</field>
+	<field code="magazineID" display="true">刊物号</field>
+	<field code="magazineType" display="true">刊物类别</field>
+	<field code="magazineLevel" display="true">刊物级别</field>
+	<field code="publishDate" display="true">发表日期</field>
+	<field code="paperAward" display="true">论文奖励</field>
+	<field code="fruitArchive" display="true">成果归档情况</field>
+	<field code="searchType" display="true">检索情况</field>
+	<field code="searchID" display="true">检索号</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+</project>

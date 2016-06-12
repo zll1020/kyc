@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="ID" display="true">ID</field>
+	<field code="innerId" display="true">内部编号</field>
+	<field code="achieveName" display="true">成果名称</field>
+	<field code="itsOrg" display="true">所在单位</field>
+	<field code="achieveMan" display="true">负责人</field>
+	<field code="concludeDate" display="true">认定完成日期</field>
+	<field code="concludeOrg" display="true">组织认定单位</field>
+	<field code="concludeLevel" display="true">成果认定水平、结论</field>
+	<field code="applayOrg" display="true">是否转化应用</field>
+	<field code="applayOrg" display="true">转化应用单位</field>
+	<field code="resultNO" display="true">成果登记号</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+	<field code="remark" display="true">备注</field>
+</project>

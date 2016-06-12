@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="fileCode" display="true">文件编号</field>
+	<field code="project.innerCode" display="true">项目内部编号</field>
+	<field code="name" display="true">文件名称</field>
+	<field code="number" display="true">文件份数</field>
+	<field code="organization" display="true">来源单位</field>
+	<field code="theDate" display="true">来文日期</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+	<field code="delFlg" display="true">是否删除</field>
+	<field code="delDate" display="true">删除日期</field>
+	<field code="remark" display="true">备注</field>
+</project>

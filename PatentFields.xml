@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="ID" display="true">ID</field>
+	<field code="innerCode" display="true">项目内部编号</field>
+	<field code="achieveName" display="true">专利名称</field>
+	<field code="patentType" display="true">专利类型</field>
+	<field code="patentID" display="true">专利号</field>
+    <field code="sqjf" display="true">申请经费</field>
+    <field code="wcjf" display="true">维持经费</field>
+	<field code="applyDate" display="true">申报日期</field>
+	<field code="applyID" display="true">申请号</field>
+	<field code="patentDate" display="true">授权日期</field>
+	<field code="patentMan" display="true">专利权人</field>
+	<field code="certificate" display="true">证书号</field>
+	<field code="ryxx" display="true">发明人</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+	<field code="remark" display="true">备注</field>
+</project>

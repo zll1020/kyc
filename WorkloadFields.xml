@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="id" display="true">ID</field>
+	<field code="serialNumber" display="true">序号</field>
+	<field code="name" display="true">姓名</field>
+	<field code="workload" display="true">工作量</field>
+	<field code="project.innerCode" display="true">项目内部编号</field>
+	<!-- 项目的相关信息开始 -->
+	<field code="project.proName" display="true">项目名称</field>
+	<field code="project.proLevel" display="true">项目级别</field>
+	<field code="project.proCharactor" display="true">项目性质</field>
+	<field code="project.proStatus" display="true">项目状态</field>
+	<!-- 结束 -->
+	<field code="year" display="true">登记年度</field>
+	<field code="sex" display="true">性别</field>
+	<field code="birth" display="true">出生日期</field>
+	<field code="idCardNo" display="true">身份证号</field>
+	<field code="payCode" display="true">工资代号</field>
+	<field code="diploma" display="true">学历</field>
+	<field code="professionalTitle" display="true">职称</field>
+	<field code="assignment" display="true">承担任务</field>
+	<field code="organization" display="true">所属单位</field>
+	<field code="enterDate" display="true">登记表日期</field>
+	<field code="role" display="true">身份</field>
+	<field code="degree" display="true">学位</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+</project>

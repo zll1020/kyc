@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  	<field code="id" display="true">ID</field>
+	<field code="type" display="true">类型</field>
+	<field code="outId" display="true">关联ID</field>
+	<field code="name" display="true">姓名</field>
+	<field code="ryxh" display="true">排序</field>
+	<field code="jobTitle" display="true">职称</field>
+	<field code="orgnization" display="true">所属单位</field>
+	<field code="sex" display="true">性别</field>
+	<field code="birth" display="true">生日</field>
+	<field code="diploma" display="true">学历</field>
+</project>

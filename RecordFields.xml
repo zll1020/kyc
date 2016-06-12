@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="id" display="true">操作ID</field>
+	<field code="tableName" display="true">表名</field>
+	<field code="doType" display="true">操作类型</field>
+	<!-- <field code="oldId" display="false">目标内容主键</field> -->
+	<!-- <field code="newId" display="false">新内容主键</field> -->
+	<field code="applyDate" display="true">申请日期</field>
+	<field code="verifyDate" display="true">审核日期</field>
+	<field code="flg" display="true">操作状态</field>
+	<field code="applyer.name" display="true">申请人</field>
+	<field code="cause" display="true">申请原因</field>
+</project>

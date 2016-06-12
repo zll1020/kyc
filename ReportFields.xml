@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="ID" display="true">ID</field>
+	<field code="reportName" display="true">题目</field>
+	<field code="innerCode" display="true">项目内部编号</field>
+	<field code="reportMan" display="true">报告人</field>
+	<field code="reportOrg" display="true">报告人单位</field>
+	<field code="vocation" display="true">职务</field>
+	<field code="jobTitle" display="true">职称</field>
+	<field code="reportYear" display="true">报告年度</field>
+	<field code="reportDate" display="true">报告时间</field>
+	<field code="reportAddress" display="true">报告地点</field>
+	<field code="studentNum" display="true">学生参加人数</field>
+	<field code="teacherNum" display="true">教工人数</field>
+	<field code="hostOrg" display="true">主办单位</field>
+	<field code="coOrg" display="true">协办单位</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+</project>

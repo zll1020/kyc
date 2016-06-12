@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="ID" display="true">ID</field>
+	<field code="innerCode" display="true">项目内部编号</field>
+	<field code="achieveName" display="true">成果名称</field>
+	<field code="itsOrg" display="true">所在单位</field>
+	<field code="awardType" display="true">获奖类别</field>
+	<field code="awardLevel" display="true">获奖等级</field>
+	<field code="awardGrade" display="true">获奖级别</field>
+	<field code="awardOrg" display="true">颁奖单位</field>
+	<field code="awardDate" display="true">获奖时间</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+	<field code="remark" display="true">备注</field>
+</project>

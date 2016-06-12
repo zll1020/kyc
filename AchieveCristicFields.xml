@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="id" display="true">ID</field>
+	<field code="achievement.achieveName" display="true">成果名称</field>		
+	<field code="achievement.achieveMan" display="true">负责人</field>
+	<field code="achievement.concludeLevel" display="true">成果水平</field>
+	
+	<field code="name" display="true">姓名</field>
+	<field code="ryxh" display="true">排序</field>
+	<field code="sxzy" display="true">所学专业</field>	
+	<field code="orgnization" display="true">所属单位</field>
+
+	<field code="sex" display="true">性别</field>	
+	<field code="birth" display="true">年龄</field>
+	<field code="achievement.itsOrg" display="true">所属单位</field>
+	<field code="diploma" display="true">学历</field>	
+	<field code="jobTitle" display="true">职称</field>
+</project>

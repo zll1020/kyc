@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<field code="incomeId" display="true">到款单号</field>
+	<field code="project.innerCode" display="true">项目内部编号</field>
+	<field code="number" display="true">财务到款通知单号</field>
+	<field code="incomeDate" display="true">到款日期</field>
+	<field code="income" display="true">到款额</field>
+	<field code="incomeCount" display="true">到款次数</field>
+	<field code="department" display="true">来源单位</field>
+	<field code="organization" display="true">所属单位</field>
+	<field code="signoffDate" display="true">签收日期</field>
+	<field code="creater.name" display="true">经手人</field>
+	<field code="createDate" display="true">登记日期</field>
+	<field code="updater.name" display="true">修改人</field>
+	<field code="updateDate" display="true">修改日期</field>
+	<field code="delFlg" display="true">是否删除</field>
+	<field code="delDate" display="true">删除日期</field>
+	<field code="remark" display="true">备注</field><!-- 以下为后增的项目信息,共41项 -->
+	<field code="project.code" display="true">项目编号</field>
+	<field code="project.proName" display="true">项目名称</field>
+	<field code="project.contractId" display="true">合同编号</field>
+	<field code="project.proSource" display="true">项目来源</field>
+	<field code="project.proClass" display="true">项目类别</field>
+	<field code="project.proLevel" display="true">项目级别</field>
+	<field code="project.proLeader" display="true">项目组长</field>
+	<field code="project.memberListFlg" display="true">是否成员登记</field>
+	<field code="project.classifiedLevel" display="true">涉密级别</field>
+	<field code="project.proCharactor" display="true">项目性质</field>
+	<field code="project.proStatus" display="true">项目状态</field>
+	<field code="project.overFormatDate" display="true">完成日期</field>
+	<field code="project.organization" display="true">所属单位</field>
+	<field code="project.cooperateOrg" display="true">合作单位</field>
+	<field code="project.startDate" display="true">开始日期</field>
+	<field code="project.endDate" display="true">结束日期</field>
+	<field code="project.regDate" display="true">登记日期</field>
+	<!-- <field code="project.totalArriveMoney" display="true">全周期到款额</field>
+	<field code="project.totalGrant" display="true">全周期拨款额</field>  -->
+	<field code="project.contractFounds" display="true">合同经费</field>
+	<field code="project.toUseFlg" display="true">是否转化应用</field>
+	<field code="project.toUseUnit" display="true">转化应用部门</field>
+	<field code="project.riskFee" display="true">风险金</field>
+	<field code="project.riskFeeBack" display="true">回拨风险金</field>
+	<field code="project.riskCallbackFlg" display="true">风险金回拨标记</field>
+	<field code="project.classifyDate" display="true">涉密时间</field>
+	<field code="project.decipherDate" display="true">解密时间</field>
+	<field code="project.overDate" display="true">结题日期</field>
+	<field code="project.overDepartment" display="true">结题部门</field>
+	<field code="project.overConclusion" display="true">结题结论</field>
+	<field code="project.acceptDate" display="true">验收日期</field>
+	<field code="project.acceptDepartment" display="true">验收部门</field>
+	<field code="project.acceptConclusion" display="true">验收结论</field>
+	<field code="project.evalueDate" display="true">鉴定日期</field>
+	<field code="project.evalueDepartment" display="true">鉴定部门</field>
+	<field code="project.evalueConclusion" display="true">鉴定结论</field>
+	<field code="project.overFormat" display="true">完成形式</field>
+	<field code="project.department" display="true">所属科室</field>
+</project>
